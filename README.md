@@ -5,3 +5,7 @@ The speed and accuracy of transcription using 𝗗𝗲𝗲𝗽𝗦𝗽𝗲𝗲�
 𝟭 - 𝗪𝗵𝗶𝘀𝗽𝗲𝗿 (𝗢𝗽𝗲𝗻𝗔𝗜)
 
 𝗔𝗰𝗰𝘂𝗿𝗮𝗰𝘆: 𝗪𝗵𝗶𝘀𝗽𝗲𝗿 is considered state-of-the-art in terms of accuracy, especially for difficult audio conditions, various languages, and accents. It's particularly effective at handling noisy environments, multiple speakers, and diverse dialects.
+
+𝗦𝗽𝗲𝗲𝗱: 𝗪𝗵𝗶𝘀𝗽𝗲𝗿 tends to be slower compared to other models due to its high complexity and the deep neural networks it employs. However, the larger models can offer very high accuracy at the expense of processing time.
+
+𝗨𝘀𝗲 𝗖𝗮𝘀𝗲: Best for scenarios where accuracy is the top priority, and you can afford slightly longer processing times.
