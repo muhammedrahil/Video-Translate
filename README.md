@@ -30,7 +30,6 @@ The speed and accuracy of transcription using 𝗗𝗲𝗲𝗽𝗦𝗽𝗲𝗲�
 
 ### Please note this points
 
-
 - If Accuracy is Your Top Priority: Go with Whisper. It’s currently the most accurate, especially in diverse and noisy environments, but it may be slower
 
 - If You Need a Balance of Speed and Accuracy: 𝗗𝗲𝗲𝗽𝗦𝗽𝗲𝗲𝗰𝗵 is a good choice. It offers decent accuracy with faster processing, especially with a GPU
